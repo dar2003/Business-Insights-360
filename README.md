@@ -128,7 +128,7 @@ You can find the interactive dashboard [**here**](https://app.powerbi.com/groups
 
 
 ### Data model 
-![Homepage](DataModel.png)
+![Homepage]()
 
 ### Home View
 ![Homepage](Homepage.png)
