@@ -130,25 +130,22 @@ You can find the interactive dashboard [**here**](https://app.powerbi.com/groups
 ### Data model 
 ![Data Model](https://github.com/dar2003/Business-Insights-360/blob/main/Data%20Model.png)
 
-![Homepage](Homepage.png)
 
 ### Home View
-![Home-view](Home-view.png)
+![Home-view](http://github.com/dar2003/Business-Insights-360/blob/main/Home-page.png)
 
 ### Finance View
-![Data Modeling](FinanceView.png)
+![Data Modeling](https://github.com/dar2003/Business-Insights-360/blob/main/Finance%20-view.png)
 
 ### Sales View
-![Data Modeling](SalesView.png)
+![Data Modeling](https://github.com/dar2003/Business-Insights-360/blob/main/Sales-view.png)
 
 ### Marketing View
-![Data Modeling](MarketingView.png)
+![Data Modeling](https://github.com/dar2003/Business-Insights-360/blob/main/Marketing-view.png)
 
 ### Supply Chain View
-![Data Modeling](SupplyChainView.png)
+![Data Modeling](https://github.com/dar2003/Business-Insights-360/blob/main/Supply%20chain%20-%20view.png)
 
 ### Executive View
-![Data Modeling](ExecutiveView.png)
+![Data Modeling](https://github.com/dar2003/Business-Insights-360/blob/main/Executive-view.png)
 
-### Info Page
-![Data Modeling](Info.png)
