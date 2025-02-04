@@ -128,7 +128,7 @@ You can find the interactive dashboard [**here**](https://app.powerbi.com/groups
 
 
 ### Data model 
-![Data Model](Data Model.png)
+![Data Model](https://github.com/dar2003/Business-Insights-360/blob/main/Data%20Model.png)
 
 ![Homepage](Homepage.png)
 
