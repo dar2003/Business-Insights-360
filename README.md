@@ -132,7 +132,7 @@ You can find the interactive dashboard [**here**](https://app.powerbi.com/groups
 
 
 ### Home View
-![Home-view]()
+![Home-view](https://github.com/dar2003/Business-Insights-360/blob/main/Home-view.png)
 
 ### Finance View
 ![Data Modeling](https://github.com/dar2003/Business-Insights-360/blob/main/Finance%20-view.png)
