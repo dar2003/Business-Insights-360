@@ -128,10 +128,12 @@ You can find the interactive dashboard [**here**](https://app.powerbi.com/groups
 
 
 ### Data model 
-![Homepage]()
+![Data Model](Data Model.png)
+
+![Homepage](Homepage.png)
 
 ### Home View
-![Homepage](Homepage.png)
+![Home-view](Home-view.png)
 
 ### Finance View
 ![Data Modeling](FinanceView.png)
